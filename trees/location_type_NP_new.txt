@@ -1,0 +1,1026 @@
+Run	geo_loc_name_country_continent	File_old	File
+SRR10095375	North America	SRR	SRR
+SRR10095376	North America	SRR	SRR
+SRR10095376	North America	SRR	SRR
+SRR11035246	North America	NA	NA
+SRR11035248	North America	NA	NA
+SRR11035250	North America	NA	NA
+SRR11035251	North America	NA	NA
+SRR11035252	North America	NA	NA
+SRR11035253	North America	NA	NA
+SRR1103952	Africa	SRR	SRR
+SRR1103958	Africa	SRR	SRR
+SRR1103962	Africa	SRR	SRR
+SRR1103964	Asia	SRR	SRR
+SRR1103964	Asia	SRR	SRR
+SRR1103964	Asia	SRR	SRR
+SRR1103964	Asia	SRR	SRR
+SRR1103964	Asia	SRR	SRR
+SRR1271734	Asia	SRR	SRR
+SRR1271735	Asia	SRR	SRR
+SRR1271736	Asia	SRR	SRR
+SRR1271737	Asia	SRR	SRR
+SRR1271740	Asia	SRR	SRR
+SRR1271741	Asia	SRR	SRR
+SRR1271742	Asia	SRR	SRR
+SRR1271743	Asia	SRR	SRR
+SRR1271744	Asia	SRR	SRR
+SRR1324888	Asia	SRR	SRR
+SRR1324891	Europe	SRR	SRR
+SRR13450231	Europe	NA	NA
+SRR13455452	Europe	NA	NA
+SRR13455468	Europe	NA	NA
+SRR13478245	Europe	SRR	SRR
+SRR13478585	Europe	SRR	SRR
+SRR13478587	Europe	SRR	SRR
+SRR1645076	Asia	SRR	SRR
+SRR1795232	Europe	SRR	SRR
+SRR18056563	Africa	SRR	SRR
+SRR18056564	Africa	SRR	SRR
+SRR18056565	Europe	SRR	SRR
+SRR18056566	Europe	SRR	SRR
+SRR18056568	Europe	SRR	SRR
+SRR18056569	Europe	SRR	SRR
+SRR18056570	Europe	SRR	SRR
+SRR18056571	Africa	SRR	SRR
+SRR18056572	Africa	SRR	SRR
+SRR1817172	Asia	SRR	SRR
+SRR1817173	Asia	SRR	SRR
+SRR18178401	Africa	SRR	SRR
+SRR18286777	Africa	SRR	SRR
+SRR18286780	Africa	SRR	SRR
+SRR18286785	Africa	SRR	SRR
+SRR2968117	Africa	SRR	SRR
+SRR2968119	Africa	SRR	SRR
+SRR2968123	Africa	SRR	SRR
+SRR5665565	Oceania	NA	NA
+SRR5665566	Oceania	SRR	SRR
+SRR5665567	Oceania	SRR	SRR
+SRR5665568	Oceania	SRR	SRR
+SRR5665569	Oceania	SRR	SRR
+SRR5665570	Oceania	SRR	SRR
+SRR5665571	Oceania	NA	NA
+SRR5665572	Oceania	NA	NA
+SRR5665573	Oceania	SRR	SRR
+SRR5665574	Oceania	NA	NA
+SRR5665575	Oceania	SRR	SRR
+SRR5665576	Oceania	SRR	SRR
+SRR6155879_EVE	Asia	NA	NA
+SRR6155879	Asia	SRR	SRR
+SRR6155879	Asia	SRR	SRR
+SRR6155880	Oceania	SRR	SRR
+SRR6155880	Oceania	SRR	SRR
+SRR6155880	Oceania	SRR	SRR
+SRR6155880	Oceania	SRR	SRR
+SRR6155880	Oceania	SRR	SRR
+SRR6155880	Oceania	SRR	SRR
+SRR6155881.1	Oceania	NA	NA
+SRR6155881	Oceania	SRR	SRR
+SRR6155881	Oceania	SRR	SRR
+SRR6155881	Oceania	SRR	SRR
+SRR6489870	Europe	SRR	SRR
+SRR6489876	Europe	SRR	SRR
+SRR6489877	Europe	SRR	SRR
+SRR6489878	Europe	SRR	SRR
+SRR6489879	Europe	SRR	SRR
+SRR7610937	Asia	SRR	SRR
+SRR8455259	North America	SRR	SRR
+SRR8480619	Europe	SRR	SRR
+SRR8480620	Europe	SRR	SRR
+SRR8480621	Europe	SRR	SRR
+SRR8480622	Europe	SRR	SRR
+SRR8480623	Europe	SRR	SRR
+SRR8480624	Europe	SRR	SRR
+SRR8480625	Europe	SRR	SRR
+SRR8480626	Europe	SRR	SRR
+SRR8480627	Europe	SRR	SRR
+SRR8480628	Europe	SRR	SRR
+SRR8480629	Europe	SRR	SRR
+SRR8480630	Europe	SRR	SRR
+SRR9693048	North America	SRR	SRR
+SRR9693049	North America	SRR	SRR
+SRR9693050	North America	SRR	SRR
+SRR9693051	North America	SRR	SRR
+SRR9693052	North America	SRR	SRR
+SRR9693053	North America	SRR	SRR
+SRR9693054	North America	SRR	SRR
+SRR9693055	North America	SRR	SRR
+SRR9948684	Oceania	SRR	SRR
+SRR3213869	North America	SRR	SRR
+SRR5084177	North America	SRR	SRR
+SRR5084180	North America	SRR	SRR
+AAGE02016690.1_1	Africa	EVE	EVE
+AAGE02000021.1_12	Africa	EVE	EVET
+AAGE02000021.1_13	Africa	EVE	EVET
+AAGE02000021.1_14	Africa	EVE	EVET
+AAGE02002749.1_27	Africa	EVE	EVET
+AAGE02008630.1_18	Africa	EVE	EVET
+AAGE02009150.1_8	Africa	EVE	EVET
+AAGE02009392.1_10	Africa	EVE	EVET
+AAGE02009981.1_22	Africa	EVE	EVE
+AAGE02009982.1_24	Africa	EVE	EVE
+AAGE02010564.1_5	Africa	EVE	EVE
+AAGE02010564.1_6	Africa	EVE	EVE
+AAGE02013193.1_15	Africa	EVE	EVET
+AAGE02013194.1_2	Africa	EVE	EVE
+AAGE02013358.1_17	Africa	EVE	EVET
+AAGE02014569.1_9	Africa	EVE	EVET
+AAGE02016037.1_7	Africa	EVE	EVET
+AAGE02020044.1_19	Africa	EVE	EVE
+JABWQA010453995.1_48	Asia	EVE	EVE
+JABWQA011125866.1_52	Asia	EVE	EVET
+JABWQA011173765.1_45	Asia	EVE	EVE
+JABWQA011324320.1_47	Asia	EVE	EVE
+JABWQA011376926.1_46	Asia	EVE	EVE
+JABWQA011422761.1_39	Asia	EVE	EVET
+JABWQA011458437.1_56	Asia	EVE	EVE
+JABWQA011460385.1_38	Asia	EVE	EVET
+JABWQA011469743.1_54	Asia	EVE	EVET
+JABWQA011504615.1_29	Asia	EVE	EVE
+JABWQA011509079.1_34	Asia	EVE	EVE
+JABWQA011572224.1_44	Asia	EVE	EVET
+JABWQA011582508.1_30	Asia	EVE	EVET
+JABWQA011615689.1_32	Asia	EVE	EVET
+JABWQA011647398.1_31	Asia	EVE	EVET
+JABWQA011649476.1_50	Asia	EVE	EVE
+JABWQA011657540.1_33	Asia	EVE	EVET
+JABWQA011659084.1_37	Asia	EVE	EVET
+JABWQA011685943.1_53	Asia	EVE	EVE
+JABWQA011693063.1_40	Asia	EVE	EVET
+JAFDOQ010000028.1_68	Europe	EVE	EVE
+JAFDOQ010000236.1_76	Europe	EVE	EVE
+JAFDOQ010000349.1_72	Europe	EVE	EVE
+JAFDOQ010000349.1_73	Europe	EVE	EVE
+JAFDOQ010000349.1_74	Europe	EVE	EVE
+JAFDOQ010000349.1_75	Europe	EVE	EVE
+JAFDOQ010000565.1_62	Europe	EVE	EVE
+JAFDOQ010000565.1_64	Europe	EVE	EVE
+JAFDOQ010000565.1_65	Europe	EVE	EVE
+JAFDOQ010000565.1_66	Europe	EVE	EVE
+JAFDOQ010000565.1_67	Europe	EVE	EVE
+JAFDOQ010000568.1_60	Europe	EVE	EVE
+JAFDOQ010000568.1_61	Europe	EVE	EVE
+JAJPPM010000001.1_100	unknown	EVE	EVET
+JAJPPM010000004.1_105	unknown	EVE	EVET
+JAJPPM010000005.1_91	unknown	EVE	EVET
+JAJPPM010000005.1_92	unknown	EVE	EVET
+JAJPPM010000023.1_96	unknown	EVE	EVET
+JAJPPM010000601.1_94	unknown	EVE	EVET
+JAJPPM010000705.1_80	unknown	EVE	EVET
+JAJPPM010000705.1_81	unknown	EVE	EVET
+JAJPPM010000934.1_88	unknown	EVE	EVE
+JAJPPM010000934.1_89	unknown	EVE	EVE
+JAJPPM010000934.1_90	unknown	EVE	EVE
+JAJPPM010000988.1_104	unknown	EVE	EVE
+JAJPPM010001314.1_97	unknown	EVE	EVE
+JAJPPM010001770.1_103	unknown	EVE	EVE
+JAJPPM010001801.1_101	unknown	EVE	EVE
+JAJPPM010001847.1_82	unknown	EVE	EVE
+JAJPPM010001872.1_84	unknown	EVE	EVE
+JAJPPM010001872.1_85	unknown	EVE	EVET
+JAJPPM010001872.1_86	unknown	EVE	EVE
+JAJPPM010001910.1_99	unknown	EVE	EVE
+JAJPPM010001963.1_78	unknown	EVE	EVE
+JAJPPM010001987.1_93	unknown	EVE	EVET
+JXPU01004007.1_124	unknown	EVE	EVE
+JXPU01037327.1_115	unknown	EVE	EVE
+JXPU01062959.1_122	unknown	EVE	EVE
+JXPU01063506.1_130	unknown	EVE	EVE
+JXPU01063506.1_131	unknown	EVE	EVE
+JXPU01078061.1_112	unknown	EVE	EVE
+JXPU01103522.1_119	unknown	EVE	EVE
+JXPU01105546.1_110		EVE	EVE
+JXPU01109243.1_107	unknown	EVE	EVET
+JXPU01122936.1_121	unknown	EVE	EVE
+JXPU01125635.1_132	unknown	EVE	EVE
+JXPU01134886.1_117	unknown	EVE	EVE
+JXPU01155130.1_120	unknown	EVE	EVE
+JXPU01187434.1_126	unknown	EVE	EVET
+JXPU01222816.1_114	unknown	EVE	EVET
+JXUM01005594.1_134	Asia	EVE	EVE
+JXUM01008838.1_143	Asia	EVE	EVE
+JXUM01008838.1_144	Asia	EVE	EVE
+JXUM01008838.1_145	Asia	EVE	EVE
+JXUM01008838.1_146	Asia	EVE	EVE
+JXUM01035854.1_150	Asia	EVE	EVE
+JXUM01035854.1_151	Asia	EVE	EVE
+JXUM01049449.1_141	Asia	EVE	EVE
+JXUM01072996.1_139	Asia	EVE	EVE
+JXUM01072996.1_140	Asia	EVE	EVE
+JXUM01088862.1_135	Asia	EVE	EVE
+JXUM01088862.1_136	Asia	EVE	EVE
+JXUM01088862.1_137	Asia	EVE	EVE
+JXUM01091724.1_142	Asia	EVE	EVE
+JXUM01104405.1_147	Asia	EVE	EVE
+JXUM01104405.1_148	Asia	EVE	EVE
+JXUM01244693.1_155	Asia	EVE	EVE
+JXUM01035829.1_156	Asia	EVE	EVE
+LMAV010997997.1_183	Europe	EVE	EVE
+LMAV011059892.1_174	Europe	EVE	EVE
+LMAV011341161.1_164	Europe	EVE	EVE
+LMAV011680072.1_185	Europe	EVE	EVE
+LMAV011832680.1_166	Europe	EVE	EVE
+LMAV011835791.1_163	Europe	EVE	EVE
+LMAV012007140.1_191	Europe	EVE	EVE
+LMAV012434455.1_171	Europe	EVE	EVE
+LMAV012527461.1_169	Europe	EVE	EVE
+LMAV012749367.1_167	Europe	EVE	EVE
+LMAV012930992.1_182	Europe	EVE	EVE
+LMAV013018745.1_159	Europe	EVE	EVE
+LMAV013053826.1_172	Europe	EVE	EVE
+LMAV013063219.1_170	Europe	EVE	EVE
+LMAV013092942.1_165	Europe	EVE	EVE
+LMAV013191503.1_176	Europe	EVE	EVE
+LMAV013212441.1_184	Europe	EVE	EVE
+LMAV013252785.1_181	Europe	EVE	EVE
+LMAV013266568.1_160	Europe	EVE	EVE
+LMAV013274178.1_158	Europe	EVE	EVE
+LMAV013295339.1_173	Europe	EVE	EVE
+LMAV013319535.1_161	Europe	EVE	EVE
+MNAF02000034.1_244	unknown	EVE	EVE
+MNAF02000233.1_229	unknown	EVE	EVE
+MNAF02000233.1_231	unknown	EVE	EVE
+MNAF02000378.1_225	unknown	EVE	EVE
+MNAF02000508.1_221	unknown	EVE	EVE
+MNAF02000508.1_222	unknown	EVE	EVE
+MNAF02000686.1_205	unknown	EVE	EVE
+MNAF02000731.1_236	unknown	EVE	EVE
+MNAF02000731.1_238	unknown	EVE	EVE
+MNAF02000731.1_239	unknown	EVE	EVE
+MNAF02001054.1_245	unknown	EVE	EVE
+MNAF02001059.1_220	unknown	EVE	EVE
+MNAF02001128.1_213	unknown	EVE	EVE
+MNAF02001128.1_214	unknown	EVE	EVE
+MNAF02001137.1_232	unknown	EVE	EVE
+MNAF02001137.1_233	unknown	EVE	EVE
+MNAF02001287.1_206	unknown	EVE	EVE
+MNAF02001287.1_207	unknown	EVE	EVE
+MNAF02001287.1_208	unknown	EVE	EVE
+MNAF02001287.1_209	unknown	EVE	EVE
+MNAF02001493.1_240	unknown	EVE	EVE
+NIGP01000001.1_266	Africa	EVE	EVET
+NIGP01000001.1_267	Africa	EVE	EVET
+NIGP01000001.1_268	Africa	EVE	EVET
+NIGP01000002.1_262	Africa	EVE	EVE
+NIGP01000002.1_263	Africa	EVE	EVE
+NIGP01000002.1_264	Africa	EVE	EVE
+NIGP01000002.1_265	Africa	EVE	EVE
+NIGP01000003.1_251	Africa	EVE	EVE
+NIGP01000003.1_252	Africa	EVE	EVE
+NIGP01000003.1_253	Africa	EVE	EVE
+NIGP01000003.1_254	Africa	EVE	EVE
+NIGP01000003.1_255	Africa	EVE	EVE
+NIGP01000003.1_256	Africa	EVE	EVE
+NIGP01000003.1_259	Africa	EVE	EVE
+NIGP01002741.1_276	Africa	EVE	EVE
+NIGP01003054.1_273	Africa	EVE	EVET
+NIGP01003389.1_275	Africa	EVE	EVET
+NIGP01003499.1_274	Africa	EVE	EVE
+NIGP01003598.1_270	Africa	EVE	EVE
+NIGP01003598.1_271	Africa	EVE	EVE
+NIGP01003598.1_272	Africa	EVE	EVE
+NIGP01004615.1_277	Africa	EVE	EVE
+SWKZ01000155.1_278	Europe	EVE	EVE
+SWKZ01002368.1_332	Europe	EVE	EVE
+SWKZ01002920.1_306	Europe	EVE	EVE
+SWKZ01003044.1_282	Europe	EVE	EVE
+SWKZ01003044.1_283	Europe	EVE	EVE
+SWKZ01003044.1_284	Europe	EVE	EVE
+SWKZ01003044.1_285	Europe	EVE	EVE
+SWKZ01003044.1_286	Europe	EVE	EVE
+SWKZ01006174.1_314	Europe	EVE	EVE
+SWKZ01006195.1_309	Europe	EVE	EVE
+SWKZ01006713.1_312	Europe	EVE	EVE
+SWKZ01006713.1_313	Europe	EVE	EVE
+SWKZ01007434.1_342	Europe	EVE	EVE
+SWKZ01008338.1_331	Europe	EVE	EVE
+SWKZ01008552.1_315	Europe	EVE	EVE
+SWKZ01008922.1_301	Europe	EVE	EVE
+SWKZ01010778.1_324	Europe	EVE	EVE
+SWKZ01010778.1_325	Europe	EVE	EVE
+SWKZ01010938.1_320	Europe	EVE	EVE
+SWKZ01011473.1_293	Europe	EVE	EVE
+SWKZ01011473.1_294	Europe	EVE	EVE
+SWKZ01011473.1_296	Europe	EVE	EVE
+SWKZ01011473.1_297	Europe	EVE	EVE
+SWKZ01011752.1_343	Europe	EVE	EVE
+SWKZ01012518.1_341	Europe	EVE	EVE
+SWKZ01015426.1_327	Europe	EVE	EVE
+SWKZ01015426.1_328	Europe	EVE	EVE
+SWKZ01015426.1_329	Europe	EVE	EVE
+SWKZ01015426.1_330	Europe	EVE	EVE
+SWKZ01015454.1_326	Europe	EVE	EVE
+SWKZ01017995.1_299	Europe	EVE	EVE
+SWKZ01018525.1_289	Europe	EVE	EVE
+SWKZ01018525.1_290	Europe	EVE	EVE
+SWKZ01018525.1_291	Europe	EVE	EVE
+SWKZ01018525.1_292	Europe	EVE	EVE
+SWKZ01017995.1_300	Europe	EVE	EVE
+SWKZ01018525.1_287	NA	EVE	EVE
+SWKZ01017995.1_298	NA	EVE	EVE
+SWKZ01010938.1_322	NA	EVE	EVE
+SWKZ01010938.1_321	NA	EVE	EVE
+SWKZ01008922.1_303	NA	EVE	EVE
+SWKZ01008922.1_302	NA	EVE	EVE
+SWKZ01006195.1_307	NA	EVE	EVE
+SWKZ01003044.1_281	NA	EVE	EVE
+SWKZ01003044.1_280	NA	EVE	EVE
+SWKZ01002920.1_304	NA	EVE	EVE
+MNAF02001128.1_212	NA	EVE	EVE
+MNAF02001128.1_211	NA	EVE	EVE
+MNAF02001128.1_210	NA	EVE	EVE
+MNAF02001059.1_217	NA	EVE	EVE
+MNAF02000378.1_227	NA	EVE	EVE
+MNAF02000378.1_226	NA	EVE	EVE
+JXUM01088862.1_137	NA	EVE	EVE
+JXUM01008838.1_145	NA	EVE	EVE
+JXUM01008838.1_144	NA	EVE	EVE
+JXUM01008838.1_143	NA	EVE	EVE
+JAFDOQ010000349.1_75	NA	EVE	EVE
+JAFDOQ010000349.1_74	NA	EVE	EVE
+JAFDOQ010000349.1_73	NA	EVE	EVE
+Wuhan Mosquito Virus 6	unknown	NA	NA
+Wuhan Mosquito Virus 4	unknown	NA	NA
+Astopletus virus	unknown	NA	NA
+Astopletus virus	unknown	NA	NA
+Usinis virus	unknown	NA	NA
+Usinis virus	unknown	NA	NA
+Usinis virus	unknown	NA	NA
+Usinis virus	unknown	NA	NA
+Usinis virus	unknown	NA	NA
+Usinis virus	unknown	NA	NA
+Usinis virus	unknown	NA	NA
+Usinis virus	unknown	NA	NA
+Usinis virus	unknown	NA	NA
+Usinis virus	unknown	NA	NA
+Usinis virus	unknown	NA	NA
+Usinis virus	unknown	NA	NA
+Halyomorpha halys orthomyxo-like virus 1	unknown	NA	NA
+Bactrocera correcta Orthomyxo-like virus	unknown	NA	NA
+Bactrocera correcta orthomyxo-like virus isolate Bz	unknown	NA	NA
+Bactrocera tryoni orthomyxo-like virus	unknown	NA	NA
+Bactrocera correcta orthomyxo-like virus isolate Bl	unknown	NA	NA
+Wuhan Mosquito Virus 6	unknown	NA	NA
+Bourbon virus	unknown	NA	NA
+Toitoi isavirus 1	unknown	NA	NA
+Toitoi isavirus 1	unknown	NA	NA
+Hainan orthomyxo-like virus 2	unknown	NA	NA
+Sichuan orthomyxo-like virus 1	unknown	NA	NA
+Yunnan sediment orthomyxo-like virus	unknown	NA	NA
+Heilongjiang sediment orthomyxo-like virus	unknown	NA	NA
+Xinjiang sediment orthomyxo-like virus 2	unknown	NA	NA
+Henan sediment orthomyxo-like virus	unknown	NA	NA
+Xinjiang sediment orthomyxo-like virus 1	unknown	NA	NA
+Xinjiang sediment orthomyxo-like virus 5	unknown	NA	NA
+Xinjiang sediment orthomyxo-like virus 4	unknown	NA	NA
+Beijing sediment orthomyxo-like virus	unknown	NA	NA
+Guangxi sediment orthomyxo-like virus	unknown	NA	NA
+Xinjiang orthomyxo-like virus 3	unknown	NA	NA
+Varroa orthomyxovirus-1	unknown	NA	NA
+Varroa orthomyxovirus-1	unknown	NA	NA
+Varroa orthomyxovirus-1	unknown	NA	NA
+Orthomyxoviridae sp.	unknown	NA	NA
+Palmetto orthomyxo-like virus	unknown	NA	NA
+Varroa orthomyxovirus-1	unknown	NA	NA
+Varroa orthomyxovirus-1	unknown	NA	NA
+Varroa orthomyxovirus-1	unknown	NA	NA
+Varroa orthomyxovirus-1	unknown	NA	NA
+Varroa orthomyxovirus-1	unknown	NA	NA
+Varroa orthomyxovirus-1	unknown	NA	NA
+Varroa orthomyxovirus-1	unknown	NA	NA
+Varroa orthomyxovirus-1	unknown	NA	NA
+Varroa orthomyxovirus-1	unknown	NA	NA
+Varroa orthomyxovirus-1	unknown	NA	NA
+Xiangshan orthomyxo-like virus	unknown	NA	NA
+Orthomyxoviridae sp.	unknown	NA	NA
+Orthomyxoviridae sp.	unknown	NA	NA
+Granville quaranjavirus	unknown	NA	NA
+Bemisia tabaci Quaranja-like virus 3	unknown	NA	NA
+Bemisia tabaci Quaranja-like virus 2	unknown	NA	NA
+Bemisia tabaci Quaranja-like virus 1	unknown	NA	NA
+Orthomyxoviridae sp.	unknown	NA	NA
+Wuhan Mosquito Virus 6	unknown	NA	NA
+Wuhan Mosquito Virus 5	unknown	NA	NA
+Guadeloupe mosquito quaranja-like virus 1	unknown	NA	NA
+Guadeloupe mosquito quaranja-like virus 1	unknown	NA	NA
+Guadeloupe mosquito quaranja-like virus 1	unknown	NA	NA
+Guadeloupe mosquito quaranja-like virus 1	unknown	NA	NA
+Guadeloupe mosquito quaranja-like virus 1	unknown	NA	NA
+Wuhan Mosquito Virus 6	unknown	NA	NA
+Wuhan Mosquito Virus 6	unknown	NA	NA
+Wuhan Mosquito Virus 6	unknown	NA	NA
+Wuhan Mosquito Virus 6	unknown	NA	NA
+Wuhan Mosquito Virus 6	unknown	NA	NA
+Wuhan Mosquito Virus 6	unknown	NA	NA
+Wuhan Mosquito Virus 6	unknown	NA	NA
+Wuhan Mosquito Virus 6	unknown	NA	NA
+Wuhan Mosquito Virus 6	unknown	NA	NA
+Wuhan Mosquito Virus 6	unknown	NA	NA
+Wuhan Mosquito Virus 6	unknown	NA	NA
+Wuhan Mosquito Virus 6	unknown	NA	NA
+Wuhan Mosquito Virus 6	unknown	NA	NA
+Bombus-associated virus Orth1	unknown	NA	NA
+Aedes orthomyxo-like virus 2	unknown	NA	NA
+Ohshima virus	unknown	NA	NA
+Ohshima virus	unknown	NA	NA
+Ohshima virus	unknown	NA	NA
+Quaranfil quaranjavirus	unknown	NA	NA
+Sinu virus	unknown	NA	NA
+Jingshan Fly Virus 1	unknown	NA	NA
+Salmon isavirus	unknown	NA	NA
+Salmon isavirus	unknown	NA	NA
+Salmon isavirus	unknown	NA	NA
+Bourbon virus	unknown	NA	NA
+Salmon isavirus	unknown	NA	NA
+Salmon isavirus	unknown	NA	NA
+Salmon isavirus	unknown	NA	NA
+Salmon isavirus	unknown	NA	NA
+Wuhan Mosquito virus 6	unknown	NA	NA
+Wuhan Mosquito virus 6	unknown	NA	NA
+Culex pipiens orthomyxo-like virus	unknown	NA	NA
+Aedes alboannulatus orthomyxo-like virus	unknown	NA	NA
+PB1 [Wuhan Mosquito Virus 6]	unknown	NA	NA
+Thogoto Thogotovirus	unknown	NA	NA
+Thailand tick thogotovirus	unknown	NA	NA
+Thailand tick thogotovirus	unknown	NA	NA
+Sinu virus	unknown	NA	NA
+Batken virus	unknown	NA	NA
+Jos virus	unknown	NA	NA
+Oz virus	unknown	NA	NA
+Upolu virus	unknown	NA	NA
+Wellfleet Bay virus	unknown	NA	NA
+Quaranjavirus johnstonense	unknown	NA	NA
+Quaranjavirus quaranfilense	unknown	NA	NA
+Quaranjavirus quaranfilense	unknown	NA	NA
+Tjuloc virus	unknown	NA	NA
+Lake Chad virus	unknown	NA	NA
+Aedes detritus orthomyxo-like virus	unknown	NA	NA
+Wuhan Mosquito Virus 6	unknown	NA	NA
+Pilchard orthomyxovirus	unknown	NA	NA
+Wuhan Mosquito Virus 7	unknown	NA	NA
+Wuhan Mosquito Virus 6	unknown	NA	NA
+Culex modestus orthomyxo-like virus	unknown	NA	NA
+Red mite quaranjavirus	unknown	NA	NA
+Influenza C virus (C/Ann Arbor/1/50)	unknown	NA	NA
+Isavirus salaris	unknown	NA	NA
+Influenza A virus (A/California/07/2009(H1N1))	unknown	NA	NA
+Influenza D virus (D/swine/Oklahoma/1334/2011)	unknown	NA	NA
+Quaranjavirus quaranfilense	unknown	NA	NA
+Araguari virus	unknown	NA	NA
+Byreldi virus	unknown	NA	NA
+Byreska virus	unknown	NA	NA
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
