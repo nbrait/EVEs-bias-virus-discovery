@@ -1,7 +1,3 @@
-# TREE VISUALIZATION WITH GGPLOT FOR ORTHOMYXOVIRIDAE PROJECT
-# Script by Nadja Brait 
-
-
 setwd("C:/Users/nadja/Documents/R/trees_for_quaranja_new/TREES") # state working directory
 
 ##################################################
@@ -28,8 +24,6 @@ library(treeio)
 # csv file with samples and their country/continent/file origin - acquired from sra metadata
 # csv file with reference accession numbers and scientific names 
 
-
-###### HUMAN INPUT ###########
 ## reading in tree
 tree <- read.tree("PB1_tree.contree") # insert nwk tree with bootstrap
 ## replacing the label descriptions
