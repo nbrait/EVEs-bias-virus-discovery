@@ -12,6 +12,6 @@ Our study highlights that our knowledge of the genetic diversity of viruses gain
 ### Citation
 
 ### Code
-All code used to generate the figures and analyses in this manuscript are available in this repo, across the `analysis` and `scripts` repos.
+All code used to generate the figures and analyses in this manuscript are available in this repository, in the `scripts` repo.
 
 ### Work in Progress
