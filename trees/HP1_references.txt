@@ -1,0 +1,5 @@
+QRW42601.1	 Guadeloupe mosquito quaranja-like virus 1
+QXP45025.1	Insect orthomyxo-like virus 1
+QRW42572.1	 Astopletus virus
+QRW42680.1	 Usinis virus
+ASA47298.1	Wuhan Mosquito Virus 6

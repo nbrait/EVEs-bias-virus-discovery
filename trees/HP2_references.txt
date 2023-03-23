@@ -1,0 +1,6 @@
+UQS95350.1	MAG: hypothetical protein 2 [Byreska virus]
+UQS95344.1	MAG: hypothetical protein 2 [Byreldi virus]
+QRW42693.1	MAG: hypothetical protein 2 [Usinis virus]
+QRW42606.1	MAG: hypothetical protein 2 [Guadeloupe mosquito quaranja-like virus 1]
+QRW42574.1	MAG: hypothetical protein 2 [Astopletus virus]
+QRW42482.1	MAG: hypothetical protein 2, partial [Wuhan Mosquito Virus 6]

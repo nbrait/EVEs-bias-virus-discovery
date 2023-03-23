@@ -1,0 +1,183 @@
+QRW42567.1	Astopletus virus
+QRW42566.1	Astopletus virus
+QRW42654.1	Usinis virus
+QRW42653.1	Usinis virus
+QRW42652.1	Usinis virus
+QRW42651.1	Usinis virus
+QRW42650.1	Usinis virus
+QRW42649.1	Usinis virus
+QRW42648.1	Usinis virus
+QRW42647.1	Usinis virus
+QRW42646.1	Usinis virus
+QRW42645.1	Usinis virus
+QRW42644.1	Usinis virus
+QRW42643.1 2	Usinis virus
+YP_009996579.1	Johnston Atoll quaranjavirus
+YP_145807.1	Infectious salmon anemia virus
+URQ09140.1	Halyomorpha halys orthomyxo-like virus 1
+UQT02521.1	Red mite quaranjavirus
+UQT02520.1	Red mite quaranjavirus
+UPT53757.1	Bactrocera correcta orthomyxo-like virus isolate Bz
+UPT53724.1	Bactrocera correcta orthomyxo-like virus isolate Bl
+UPT53673.1	Bactrocera correcta Orthomyxo-like virus
+UPO71029.1	Bourbon virus
+UPO71028.1	Bourbon virus
+UPO71027.1	Bourbon virus
+UPO71026.1	Bourbon virus
+UNQ78354.1	Bourbon virus
+UMO75735.1	Hainan orthomyxo-like virus 2
+UMO75730.1	Yunnan sediment orthomyxo-like virus
+UMO75727.1	Heilongjiang sediment orthomyxo-like virus
+UMO75724.1	Xinjiang sediment orthomyxo-like virus 2
+UMO75719.1	Xinjiang sediment orthomyxo-like virus 5
+UMO75714.1	Xinjiang sediment orthomyxo-like virus 4
+UMO75710.1	Xinjiang orthomyxo-like virus 3
+UMO75707.1	Beijing sediment orthomyxo-like virus
+ULY68745.1	Varroa orthomyxovirus-1
+ULY68739.1	Varroa orthomyxovirus-1
+ULY68733.1	Varroa orthomyxovirus-1
+UGO48656.1	Palmetto orthomyxo-like virus
+UDY81365.1	Varroa orthomyxovirus-1
+UDY81359.1	Varroa orthomyxovirus-1
+UDY81353.1	Varroa orthomyxovirus-1
+UDY81347.1	Varroa orthomyxovirus-1
+UDY81341.1	Varroa orthomyxovirus-1
+UDY81335.1	Varroa orthomyxovirus-1
+UDY81329.1	Varroa orthomyxovirus-1
+UDY81323.1	Varroa orthomyxovirus-1
+UDY81317.1	Varroa orthomyxovirus-1
+UDY81311.1	Varroa orthomyxovirus-1
+UDL13961.1	Xiangshan orthomyxo-like virus
+UCR92581.1	Orthomyxoviridae sp.
+UBB38849.1	Orthomyxoviridae sp.
+UAJ23569.1	Granville quaranjavirus
+sp|Q6UBL8.1|PB2_ISAV8	Infectious salmon anemia virus isolate 810/9/99
+QYW05798.1	Orthomyxoviridae sp.
+QYW05796.1	Orthomyxoviridae sp.
+QWC36499.1	Bemisia tabaci Quaranja-like virus 3
+QWC36494.1	Bemisia tabaci Quaranja-like virus 2
+QWC36489.1	Bemisia tabaci Quaranja-like virus 1
+QRW42590.1	Guadeloupe mosquito quaranja-like virus 1
+QRW42589.1	Guadeloupe mosquito quaranja-like virus 1
+QRW42588.1	Guadeloupe mosquito quaranja-like virus 1
+QRW42587.1	Guadeloupe mosquito quaranja-like virus 1
+QRW42586.1	Guadeloupe mosquito quaranja-like virus 1
+QRW42442.1	Wuhan Mosquito Virus 6
+QRW42441.1	Wuhan Mosquito Virus 6
+QRW42440.1	Wuhan Mosquito Virus 6
+QRW42439.1	Wuhan Mosquito Virus 6
+QRW42438.1	Wuhan Mosquito Virus 6
+QRW42437.1	Wuhan Mosquito Virus 6
+QRW42436.1	Wuhan Mosquito Virus 6
+QRW42435.1	Wuhan Mosquito Virus 6
+QRW42434.1	Wuhan Mosquito Virus 6
+QRW42433.1	Wuhan Mosquito Virus 6
+QRW42432.1	Wuhan Mosquito Virus 6
+QRW42431.1	Wuhan Mosquito Virus 6
+QRW42430.1	Wuhan Mosquito Virus 6
+QRD99918.1	Culex pipiens orthomyxo-like virus
+QRD99913.1	Aedes detritus orthomyxo-like virus
+QPL15302.1	Hymenopteran orthomyxo-related virus OKIAV171
+QMP82400.1	Dermapteran orthomyxo-related virus OKIAV170
+QMP82396.1	Coleopteran orthomyxo-related virus OKIAV158
+QMP82390.1	Dipteran orthomyxo-related virus OKIAV195
+QMP82375.1	Hemipteran orthomyxo-related virus OKIAV183
+QMP82369.1	Siphonapteran orthomyxo-related virus OKIAV157
+QMP82343.1	Hemipteran orthomyxo-related virus OKIAV188
+QMP82297.1	Phasmatodean orthomyxo-related virus OKIAV172
+QMP82275.1	Coleopteran orthomyxo-related virus OKIAV179
+QMP82135.1	Dipteran orthomyxo-related virus OKIAV193
+QHR77124.1	 Johnston Atoll quaranjavirus
+QEM39325.1	Guadeloupe mosquito quaranja-like virus 1
+QEM39324.1	Guadeloupe mosquito quaranja-like virus 2
+QEM39323.1	Guadeloupe mosquito quaranja-like virus 3
+QDK54863.1	Longchuan virus
+DAZ85674.1	Aedes orthomyxo-like virus 2
+CAD55812.1	Salmon isavirus
+BCS58618.1	Ohshima virus
+BCS58617.1	Ohshima virus
+BCS58616.1	Ohshima virus
+AYR04797.1	Longchuang virus
+AXL67891.1	Quaranfil quaranjavirus
+ASA47505.1	Wuhan Mosquito Virus 6
+ASA47474.1	Wuhan Mosquito Virus 6
+ASA47439.1	Wuhan Mosquito Virus 6
+ASA47414.1	Wuhan Mosquito Virus 6
+ASA47380.1	Wuhan Mosquito Virus 6
+ASA47328.1	Wuhan Mosquito Virus 6
+ASA47293.1	Wuhan Mosquito Virus 6
+AQU42765.1	Whidbey virus
+AQT26411.1	Salmon isavirus
+AQT26405.1	Salmon isavirus
+AQQ10508.1	Infectious salmon anemia virus
+AQQ10507.1	Infectious salmon anemia virus
+AQM37683.1	Steelhead trout orthomyxovirus-1
+AQM37673.1	Rainbow trout orthomyxovirus-1
+APP91613.1	Sinu virus
+APG77901.1	Sanxia Water Strider Virus 3
+APG77898.1	Jingshan Fly Virus 1
+APG77887.1	Wuhan Mosquito Virus 4
+APG77885.1	Jiujie Fly Virus
+APG77877.1	Jingshan Fly Virus 1
+APG77861.1	Wuhan Mosquito Virus 4
+ANM86268.1	Salmon isavirus
+ANM86258.1	Salmon isavirus
+ANM86248.1	Salmon isavirus
+AIW00348.1	Salmon isavirus
+AEC12827.1	Infectious salmon anemia virus
+ADR77505.1	Isavirus salaris
+ADR31802.1	Salmon isavirus
+ADR31801.1	Salmon isavirus
+ADR31786.1	Salmon isavirus
+ADR31785.1	Salmon isavirus
+ADF36505.1	Isavirus salaris
+ADF36495.1	Isavirus salaris
+ACG50833.1	Infectious salmon anemia virus
+ACG50832.1	Infectious salmon anemia virus
+ABW93482.1	Infectious salmon anemia virus
+ABG65754.1	 Isavirus salaris
+ABG65753.1	 Isavirus salaris
+ABG65752.1	 Isavirus salaris
+ABG65751.1	 Isavirus salaris
+ABG65750.1	 Isavirus salaris
+ABG65749.1	 Isavirus salaris
+ABG65748.1	 Isavirus salaris
+ABG65747.1	 Isavirus salaris
+ABG65746.1	 Isavirus salaris
+ABG65745.1	 Isavirus salaris
+ABG65744.1	 Isavirus salaris
+ABG65743.1	 Isavirus salaris
+ABG65742.1	 Isavirus salaris
+ABG65741.1	 Isavirus salaris
+AAY28859.1	Infectious salmon anemia virus
+AAY28858.1	Infectious salmon anemia virus
+AAY28857.1	Isavirus salaris
+AAX56298.1	 Infectious salmon anemia virus
+AAX56297.1	 Infectious salmon anemia virus
+AAX56296.1	 Infectious salmon anemia virus
+AAX56295.1	 Infectious salmon anemia virus
+AAX56294.1	 Infectious salmon anemia virus
+AAX56293.1	 Infectious salmon anemia virus
+AAW72720.1	Infectious salmon anemia virus
+AAQ81915.1	Infectious salmon anemia virus
+AAQ81914.1	Infectious salmon anemia virus
+AAQ81913.1	Infectious salmon anemia virus
+AAQ81912.1	Infectious salmon anemia virus
+AAO44954.1	Infectious salmon anemia virus
+AAO12126.1	Isavirus salaris
+AAL67963.1	Salmon isavirus
+YP_145807.1	Infectious salmon anemia virus
+APP91613.1	Sinu virus
+YP_009508039.1	Quaranjavirus quaranfilense
+ASR92123.1	Araguari virus
+NP_056658.1	Influenza B virus (B/Lee/1940)
+YP_009118631.1	Influenza A virus (A/California/07/2009(H1N1)
+ASA47421.1	Aedes alboannulatus orthomyxo-like virus
+APG77861.1	Wuhan Mosquito Virus 4
+QRD99917.1	Culex modestus orthomyxo-like virus
+QRW42587.1	Guadeloupe mosquito quaranja-like virus 1
+ASA47293.1	Wuhan Mosquito Virus 6
+YP_009449557.1	Influenza D virus (D/swine/Oklahoma/1334/2011)
+QJQ28579.1	Pilchard orthomyxovirus
+YP_089652.1	Influenza C virus (C/Ann Arbor/1/50)
+YP_145807.1	Infectious salmon anemia virus
