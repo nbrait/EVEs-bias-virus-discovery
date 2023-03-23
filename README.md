@@ -11,6 +11,9 @@ Our study highlights that our knowledge of the genetic diversity of viruses gain
 
 ### Citation
 
+### Project Workflow
+![Alt text](/final_workflow.jpg?raw=true "Project workflow")
+
 ### Code
 All code used to generate the figures and analyses in this manuscript are available in this repository, in the `scripts` repo.
 
