@@ -1,0 +1,116 @@
+Source	Tribes	Freq	Location	lat	long
+RNA-Seq	Culicini	16	Australia: Kerang\, Victoria	-35.733831	143.925728
+RNA-Seq	Aedini	1	Australia: Siesta Park	-33.652651	115.211053
+RNA-Seq	Aedini	1	Australia: Leschenault Peninsula	-33.333333	115.633333
+RNA-Seq	Aedini	1	Australia: Point Douro	-33.3056798	115.6973439
+RNA-Seq	Aedini	2	Australia: South Guildford	-31.912	115.972
+WGS	Culicini	2	South Africa: Johannesburg	-26.2	28.066667
+RNA-Seq	Culicini	7	Western Australia	-31.912	115.972
+RNA-Seq	Aedini	5	Brazil:Rio de Janeiro	-22.911366	-43.205916
+RNA-Seq	Culicini	1	Indian Ocean: La Reunion\, Saint Benoit	-21.043737	55.717857
+RNA-Seq	Aedini	2	Australia:Cairns	-16.92	145.78
+RNA-Seq	Other	2	Brazil: Southeast	-5.666667	-52.733333
+RNA-Seq	Aedini	10	Kenya: Rabai	-3.931733	39.571518
+RNA-Seq	Aedini	1	Uganda: Bundibugyo	0.7125	30.06
+RNA-Seq	Other	2	Singapore: Neesoon	1.402778	103.817778
+WGS	Aedini	2	West Africa	8.5	-11.916667
+RNA-Seq	Culicini	1	Costa Rica: Pueto Viero	9.646168	-82.7490229
+RNA-Seq	Aedini	3	Sri Lanka: Jaffna	9.655	80.018889
+RNA-Seq	Other	1	Grenada: West Indies	12.11	-61.67
+RNA-Seq	Aedini	1	Grenada: West Indies	12.11	-61.67
+RNA-Seq	Culicini	1	Burkina Faso: Ouagadougou	12.364637	-1.5338639
+RNA-Seq	Aedini	1	Thailand: Rayong	12.674167	101.278889
+WGS	Aedini	1	Tamil Nadu, India	13.09	80.27
+RNA-Seq	Aedini	4	Thailand: Bangkok	13.75	100.516667
+RNA-Seq	Aedini	2	Thailand	14.15	101.05
+RNA-Seq	Culicini	1	Philippines: Manille	14.5995124	120.9842195
+RNA-Seq	Aedini	3	Senegal:Younoufere	15.2230762	-14.438567
+RNA-Seq	Aedini	3	Senegal:Younoufere	15.2815559	-14.4513464
+RNA-Seq	Aedini	5	Senegal:Younoufere	15.2883709	-14.4855387
+RNA-Seq	Culicini	14	Guadeloupe	16.25	-61.583333
+RNA-Seq	Aedini	26	Guadeloupe	16.25	-61.583333
+RNA-Seq	Other	1	Mexico: Chiapas	16.416667	-92.416667
+RNA-Seq	Culicini	1	Mexico: Chiapas	16.416667	-92.416667
+RNA-Seq	Aedini	8	Mexico: Chiapas	16.416667	-92.416667
+RNA-Seq	Aedini	12	China: Shenzhen	22.535	114.054
+WGS	Aedini	1	China: Foshan, Guangdong Province	23.0214	113.1216
+RNA-Seq	Culicini	5	Guangzhou	23.13	113.26
+RNA-Seq	Aedini	1	China:Guangzhou	23.13	113.26
+RNA-Seq	Culicini	1	China: Zhu-Shang	24.6446709	102.686988
+RNA-Seq	Other	4	USA	25.4078	-80.5237
+RNA-Seq	Culicini	1	USA	25.4078	-80.5237
+RNA-Seq	Aedini	2	USA:Florida\, Manatee County\, Longboaat Key community	27.437103	-82.683194
+RNA-Seq	Aedini	2	USA:Florida\, Manatee County\, Cortez community	27.467564	-82.685147
+RNA-Seq	Aedini	2	USA:Florida\, Manatee County\, Anna Maria community	27.534806	-82.738361
+RNA-Seq	Aedini	2	USA:Florida\, Manatee County\, Palmetto community	27.548736	-82.560511
+RNA-Seq	Culicini	1	Egypt	31.11675781	30.94255364
+RNA-Seq	Culicini	1	Egypt	31.12323904	30.98455998
+RNA-Seq	Culicini	1	China:jiangsu\, nanjing	32.05	118.78
+RNA-Seq	Culicini	1	Israel: Tel Aviv Yatouch	32.070065	34.777508
+RNA-Seq	Aedini	5	USA:California	32.55	-117.04
+RNA-Seq	Culicini	2	USA:California	32.69	-117.12
+RNA-Seq	Aedini	2	USA:California	32.69	-117.12
+RNA-Seq	Aedini	1	USA:California	32.71	-117.11
+RNA-Seq	Aedini	1	USA:California	32.76	-117.08
+RNA-Seq	Culicini	1	Tunisia	33.89715135	10.09706437
+RNA-Seq	Aedini	11	USA:California	33.95	-117.69
+RNA-Seq	Culicini	3	Morocco	34.005117	-6.772463
+RNA-Seq	Aedini	12	USA:California	34.15	-117.66
+RNA-Seq	Culicini	11	Huntsville, Alabama	34.73	-86.585
+RNA-Seq	Culicini	1	China:Shandong\, Tangkou town	35.12	116.5
+RNA-Seq	Culicini	1	Tunisia: Moknine	35.626433	10.912933
+RNA-Seq	Culicini	4	USA: California\, Kern County	35.7458	-119.6179
+RNA-Seq	Aedini	1	KOREA	36	128
+RNA-Seq	Culicini	2	Tunisia	36.15955	8.71863299
+WGS	Culicini	1	China: Taian	36.183333	117.133333
+RNA-Seq	Culicini	10	Shanghai	36.4	118.4
+RNA-Seq	Culicini	1	Tunisia: Grombalia	36.5909	10.49059999
+RNA-Seq	Culicini	1	Tunisia: Grombalia	36.601541	10.50034
+RNA-Seq	Culicini	1	Algeria: Lac des Oiseaux	36.7715922	8.1092816
+RNA-Seq	Culicini	1	Tunisia: El Habibia	36.803817	9.9424
+RNA-Seq	Culicini	1	Tunisia	37.06336356	9.66072622
+RNA-Seq	Culicini	1	Tunisia: Utique	37.0696	10.007067
+RNA-Seq	Culicini	2	Merced, Calfifornia	37.3	-120.483333
+RNA-Seq	Culicini	1	USA: San Francisco\, California	37.728778	-122.453306
+RNA-Seq	Culicini	1	USA: Bolinas\, California	37.90185	-122.702743
+RNA-Seq	Culicini	1	USA: Stinson Beach\, California	37.902355	-122.649002
+RNA-Seq	Culicini	1	USA: San Rafael\, California	37.966351	-122.504537
+RNA-Seq	Culicini	2	China: Beijing	39	116
+RNA-Seq	Aedini	2	Greece	39	22
+RNA-Seq	Culicini	4	USA: Ohio\, Columbus	39.962222	-83.000556
+RNA-Seq	Culicini	1	USA:New York City	40.712778	-74.005833
+RNA-Seq	Other	1	Greece:Xanthi	41.166667	24.8
+RNA-Seq	Culicini	1	Spain	41.30076758	2.10612024
+RNA-Seq	Culicini	18	Gavá	41.307222	2.003889
+RNA-Seq	Culicini	1	Spain	41.31683364	2.10429609
+RNA-Seq	Aedini	1	Italy: Rome	41.893333	12.482778
+RNA-Seq	Other	11	Greece:Thrace	42	26
+RNA-Seq	Culicini	4	Greece:Thrace	42	26
+RNA-Seq	Aedini	7	Greece:Thrace	42	26
+RNA-Seq	Culicini	1	Italy	42.63829233	13.66826866
+RNA-Seq	Culicini	1	Italy	42.65463918	13.71054953
+RNA-Seq	Culicini	1	France: Cuges les Pins	43.27	5.7
+RNA-Seq	Aedini	1	France: Cuges les Pins	43.27	5.7
+RNA-Seq	Culicini	1	France	43.39919598	4.78612378
+RNA-Seq	Culicini	1	France	43.57146876	4.38219879
+RNA-Seq	Culicini	1	France: Montpellier	43.611111	3.876667
+RNA-Seq	Culicini	1	France: Montpellier Triolet	43.629366	3.860393
+RNA-Seq	Culicini	1	France: Mas de Foiton	43.796794	4.593698
+RNA-Seq	Culicini	1	France: Laroque	43.922663	3.723849
+RNA-Seq	Culicini	1	France: Ganges	43.934614	3.708787
+WGS	Aedini	1	Italy: Rimini	44.059444	12.568333
+RNA-Seq	Culicini	1	Denmark: Polignac	45.071348	3.859441
+WGS	Aedini	2	Italy:Pavia	45.185	9.154167
+RNA-Seq	Culicini	3	Germany: Baden-Wurttemberg	48.537778	9.041111
+RNA-Seq	Culicini	36	Belgium	50.85	4.35
+RNA-Seq	Aedini	5	United Kingdom: Little Neston	53.28	-3.057
+RNA-Seq	Culicini	2	Sweden: Kristianstad	56.0337	14.1333
+RNA-Seq	Culicini	1	Sweden: Uppsala	59.8585638	17.6389267
+RNA-Seq	Culicini	10	Sweden: Dalalven	60.641667	17.45
+RNA-Seq	Other	2	NA	NA	NA
+RNA-Seq	Other	3	NA	NA	NA
+RNA-Seq	Culicini	NA	China 	NA	NA
+RNA-Seq	Culicini	23	NA	NA	NA
+RNA-Seq	Aedini	15	NA	NA	NA
+RNA-Seq	Aedini	3	Brazil	NA	NA
+WGS	Aedini	3	unknown - maybe Israel	NA	NA
