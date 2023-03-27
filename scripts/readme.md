@@ -2,7 +2,7 @@
 
 In order to run the project, please install the packages that are required and check their version, it may occur that a different version of a package does not work as intended.
 
-##Databases
+## Databases
 
 Note that the databases are not present within this repository, these can be downloaded individually.
 
