@@ -1,8 +1,11 @@
 # A Tale of Caution: Endogenous viral elements might bias virus discovery in transcriptomic datasets
 
-Repository containing source code and data supporting our manuscript on EVEs from Orthomyxoviruses in mosquitoes
+**Nadja Brait, Sebastian Lequime**
 
-Nadja Brait, Sebastian Lequime
+Groningen Institue for Evolutionary Life Sciences, University of Groningen, Netherlands
+
+### Purpose 
+Repository containing source code and data supporting our manuscript on EVEs from Orthomyxoviruses in mosquitoes
 
 ### Abstract
 With the advent of large-scale metagenomic studies, viral genetic diversity and abundance have been characterised at an unparalleled speed and depth. However, the viral genomes detected are often incomplete:  while this can be partly attributed to suboptimal viral sequence enrichment, especially in publicly available datasets that were not generated for viral discovery, we argue that some of these sequences may not be exogenous viruses but likely represent endogenous viral elements (EVEs). Non-retroviral EVEs are a highly underestimated bias in metagenomics/transcriptomics, and seldom removed in viral discovery bioinformatics pipelines. However, EVEs can be transcribed, which could potentially be falsely assigned to an exogenous virus in traditional virus discovery pipelines. Here, we used publicly available genomic and transcriptomic datasets of Culicinae mosquitoes to characterise EVEs and exogenous viral sequences associated with Orthomyxoviridae, a family of negative-sense segmented RNA viruses. 
