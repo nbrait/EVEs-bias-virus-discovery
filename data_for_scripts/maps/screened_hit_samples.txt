@@ -1,0 +1,48 @@
+Source	Tribes	geo_loc_name	geo_loc_name_country	lat	lng	Freq
+SRR	Aedini	Cairns	Australia	-16.92	145.78	2
+SRR	Aedini	Rabai	Kenya	-3.931733	39.571518	3
+SRR	Aedini	South Guildford	Australia	-31.912	115.972	2
+SRR	Aedini	Leschenault Peninsula	Australia	-33.23601229	115.6974399	1
+SRR	Aedini	Point Douro	Australia	-33.3056798	115.6973439	1
+SRR	Aedini	Siesta Park	Australia	-33.652651	115.211053	1
+SRR	Aedini	West Indies	Grenada	12.11	-61.67	1
+SRR	Aedini	Rayong	Thailand	12.681396	101.2789	1
+SRR	Aedini	Bangkok	Thailand	13.7525	100.494167	1
+SRR	Aedini		Thailand	14.15	101.05	2
+SRR	Aedini	Younoufere	Senegal	15.2815559	-14.4513464	1
+SRR	Aedini	NA	Senegal	15.2883709	-14.4855387	2
+SRR	Aedini	Guadeloupe	Guadeloupe	16.25	-61.583333	1
+SRR	Aedini	Florida	USA	27.467564	-82.685147	8
+SRR	Aedini	California	USA	32.55	-117.04	6
+SRR	Aedini		Greece	42	26	1
+SRR	Aedini	Little Neston	United Kingdom	53.28	-3.057	5
+SRR	Aedini			NA	NA	3
+SRR	Culicini	Western Australia	Australia	-31.912	115.972	7
+SRR	Culicini		Grenada	12.11	-61.67	1
+SRR	Culicini	Manille	Philippines	14.5995124	120.9842195	1
+SRR	Culicini	Egypt	Egypt	31.11675781	30.94255364	2
+SRR	Culicini	Nanjing	China	32.049999	118.76667	2
+SRR	Culicini	Tunisia	Tunisia	33.89715135	10.09706437	1
+SRR	Culicini	Morocco	Morocco	33.97479	6.86957	1
+SRR	Culicini	Moknine	Tunisia	35.626433	10.912933	1
+SRR	Culicini	Victoria	Australia	-35.733831	143.925728	1
+SRR	Culicini	Grombalia	Tunisia	36.5909	10.49059999	1
+SRR	Culicini	El Habibia	Tunisia	36.803817	9.9424	1
+SRR	Culicini	Tunisia	Tunisia	37.06336356	9.66072622	1
+SRR	Culicini	Beijing	China	39.916668	116.383331	9
+SRR	Culicini	Spain	Spain	41.30076758	2.10612024	2
+SRR	Culicini		Greece	42	26	1
+SRR	Culicini	Italy	Italy	42.65463918	13.71054953	1
+SRR	Culicini	France	France	43.39919598	4.78612378	2
+SRR	Culicini	Montpellier Triolet	France	43.629366	3.860393	1
+SRR	Culicini	Baden-Wurttemberg	Germany	48.537778	9.041111	1
+SRR	Culicini	Kristianstad	Sweden	56.0337	14.1333	2
+SRR	Culicini	Dalalven	Sweden	60.641667	17.45	10
+SRR	Other	Thrace	Greece	42	26	4
+WGS	Aedini	West Africa		8.5	-11.916667	2
+WGS	Aedini	unknown - maybe Israel		NA	NA	1
+WGS	Aedini	Pavia		45.185	9.154167	2
+WGS	Aedini	Foshan		23.0214	113.1216	1
+WGS	Aedini	unknown				2
+WGS	Aedini	Rimini		44.059444	12.568333	1
+WGS	Aedini	Tamil Nadu		13.09	80.27	1
