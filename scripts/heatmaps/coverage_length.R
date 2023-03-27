@@ -6,29 +6,30 @@ library(ggplot2)
 library(forcats)
 setwd("C:/Users/nadja/Documents/R/trees_for_quaranja_new/HEATMAP")
 
-table <- read.csv("NP_all_segments.csv")
-Xlength <- lengths(regmatches(table$Sequence, gregexpr("N", table$Sequence)))
-totallength <- nchar(table$Sequence)
-Percentage <- 100-(Xlength/totallength*100)
-table$Percentage <- Percentage
-table <- table[order(table$Percentage),]
-write.csv(table, file = "tableforcoverage.csv")
+## coverage calculations 
+#table <- read.csv("NP_all_segments.csv")
+#Xlength <- lengths(regmatches(table$Sequence, gregexpr("N", table$Sequence)))
+#totallength <- nchar(table$Sequence)
+#Percentage <- 100-(Xlength/totallength*100)
+#table$Percentage <- Percentage
+#table <- table[order(table$Percentage),]
+#write.csv(table, file = "tableforcoverage.csv")
 
 #colnames(table)[3] <- "HP3"
-table= subset(table, select = -c(Sequence) )
+#table= subset(table, select = -c(Sequence) )
 #table <- table[order(table$Name),]
-table$Name <- ave(table$Name, table$Name, FUN = function(i) paste0(i, '.', seq_along(i)))
+#table$Name <- ave(table$Name, table$Name, FUN = function(i) paste0(i, '.', seq_along(i)))
 #row.names(table) <- table$Name
 
 #table3 <- table
 
-table3 <- rbind.fill(table3,table)
+#table3 <- rbind.fill(table3,table)
 #table3 <- merge(table,table3, all=TRUE)
 #table3 <- table3[order(table3$Name),]
-table2 <- table3
+#table2 <- table3
 #table3 <- table2
 # changing NAs to 0
-table3[is.na(table3)] <- 0
+#table3[is.na(table3)] <- 0
 
 ############### geom_tile heatmap ###################
 
