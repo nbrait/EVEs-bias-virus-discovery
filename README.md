@@ -1,6 +1,6 @@
 # A Tale of Caution: Endogenous viral elements might bias virus discovery in transcriptomic datasets
 
-**Nadja Brait, Sebastian Lequime**
+**Nadja Brait, Thomas Hackl, Côme Morel, Antoni Exbrayat, Serafín Gutierrez, Sebastian Lequime**
 
 Groningen Institue for Evolutionary Life Sciences, University of Groningen, Netherlands
 
