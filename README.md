@@ -2,8 +2,6 @@
 
 **Nadja Brait, Thomas Hackl, Côme Morel, Antoni Exbrayat, Serafín Gutierrez, Sebastian Lequime**
 
-Groningen Institue for Evolutionary Life Sciences, University of Groningen, Netherlands
-
 ### Purpose 
 Repository containing source code and data supporting our manuscript on EVEs from Orthomyxoviruses in mosquitoes
 
@@ -16,7 +14,7 @@ Our study highlights that our knowledge of the genetic diversity of viruses can 
 ### Citation
 
 ### Project Workflow
-![Alt text](/final_workflow.jpg?raw=true "Project workflow")
+![Alt text](/workflow_updated.png?raw=true "Project workflow")
 
 ### Code
 All code used to generate the figures and analyses in this manuscript are available in this repository, in the `scripts` repo.
