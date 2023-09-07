@@ -1,0 +1,2 @@
+#rname	startpos	endpos	numreads	covbases	coverage	meandepth	meanbaseq	meanmapq
+SRR5665570_PA	1	2154	4	203	9.42433	0.185701	33.9	42
