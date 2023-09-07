@@ -1,4 +1,4 @@
-# A Tale of Caution: Endogenous viral elements might bias virus discovery in transcriptomic datasets
+# A tale of caution: How endogenous viral elements affect virus discovery in transcriptomic data
 
 **Nadja Brait, Thomas Hackl, Côme Morel, Antoni Exbrayat, Serafín Gutierrez, Sebastian Lequime**
 
