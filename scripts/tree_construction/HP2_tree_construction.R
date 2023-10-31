@@ -33,22 +33,21 @@ for(j in seq_along(replace_words$Accession)){
 }
 
 tree <- as.phylo(tree)
-tree <- midpoint.root(tree)
+tree <- midpoint_root(tree)
+tree <- reorder(tree)
 #outgroup rooting
 #nodes <- as_tibble(tree) 
 #tree <- root(tree, node = 68, edgelabel = TRUE)
 #### converting the bootstrap value outside ggtree
-q <- ggtree(tree) + xlim(NA, 5) + expand_limits(y = 70) + coord_cartesian(clip="off") #+ geom_text2(aes(label=node), hjust=-.3, size=2) 
+q <- ggtree(tree) + xlim(NA, 5) + expand_limits(y = 70) + coord_cartesian(clip="off") #+ geom_text2(aes(label=label), hjust=-.3, size=2) 
 show(q)
-#q <- flip(q, 330, 493)
-#q <- rotate(q,138) %>% rotate(150)
 d <- q$data
 d <- d[!d$isTip,]
 d$label <- as.numeric(d$label)
 d <- d[d$label > 95,]
 d$label <- replace(d$label, d$label > 95,'*') 
 q <- q + geom_text(data=d, aes(label=label), hjust = 0.0, vjust = 0.1, size = 3.0) + geom_treescale(x=0, y=3) 
-
+#show(q)
 ## annotation location and samples
 tipcategories = read.csv("location_type_NP_new.txt", 
                          sep = "\t",
