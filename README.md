@@ -11,7 +11,7 @@ We examined EVEs and exogenous viral sequences linked to Orthomyxoviridae, a div
 Our study highlights that our knowledge of the genetic diversity of viruses can be altered by the underestimated presence of EVEs in transcriptomic datasets, leading to false positives and altered or missing sequence information. Thus, recognizing and addressing the influence of EVEs in virus discovery pipelines will be key to enhancing our ability to capture the full spectrum of viral diversity.
 
 ### Citation
-not yet peer-reviewed
+BioRxiv. https://doi.org/10.1101/2023.09.08.556789
 
 ### Project Workflow
 ![Alt text](/Workflow_figure_github.png?raw=true "Project workflow")
