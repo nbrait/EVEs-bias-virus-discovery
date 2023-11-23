@@ -14,9 +14,7 @@ Our study highlights that our knowledge of the genetic diversity of viruses can 
 not yet peer-reviewed
 
 ### Project Workflow
-![Alt text](/workflow_updated.png?raw=true "Project workflow")
+![Alt text](/Workflow_figure.png?raw=true "Project workflow")
 
 ### Code
 All code used to generate the figures and analyses in this manuscript are available in this repository, in the `scripts` repo.
-
-### Work in Progress
